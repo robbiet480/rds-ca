@@ -1,0 +1,23 @@
+{
+  "name": "rds-ca",
+  "version": "1.0.0",
+  "description": "Provides Amazon RDS CA certificates",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/robbiet480/rds-ca.git"
+  },
+  "keywords": [
+    "rds",
+    "certificates",
+    "mysql",
+    "postgres",
+    "aws"
+  ],
+  "author": "Robbie Trencheny <me@robbiet.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robbiet480/rds-ca/issues"
+  },
+  "homepage": "https://github.com/robbiet480/rds-ca#readme"
+}
