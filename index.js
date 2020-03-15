@@ -1475,5 +1475,4 @@ module.exports = [
   + 'jL4en+XKS1uJpw5fIU5Sj0MxhdGstH6S84iAE5J3GM3XHklGSFwwqPYvuTXvANH6\n'
   + 'uboynxRgSae59jIlAK6Jrr6GWMwQRbgcaAlW\n'
   + '-----END CERTIFICATE-----\n'
-]
-};
+];
